@@ -1,0 +1,1 @@
+Esta pasta reúne os experimentos e versões intermediárias dos modelos de previsão realizados durante a fase de desenvolvimento do projeto.

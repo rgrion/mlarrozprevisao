@@ -1,0 +1,1 @@
+Esta pasta contém as versões intermediárias e experimentos conduzidos ao longo do processo de modelagem preditiva

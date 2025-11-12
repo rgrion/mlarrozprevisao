@@ -8,7 +8,7 @@ Este repositório contém os códigos, dados derivados e resultados utilizados n
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Desenvolver modelos de aprendizado de máquina capazes de prever a **produção anual de arroz na América do Sul** (2004–2023), integrando variáveis agrícolas e climáticas para apoiar políticas públicas, planejamento sustentável e segurança alimentar.
 
@@ -16,7 +16,7 @@ O estudo compara os algoritmos **Regressão Linear**, **Support Vector Regressio
 
 
 ## Estrutura do Repositório
-
+```
 mlarrozprevisao/
 ├── [Tratados]Datasets_FAOSTAT_Rice_South_America/ # Dados tratados da FAOSTAT (América do Sul)
 ├── [Tratados]Datasets_FAOSTAT_Rice_Biggest_Producers/ # Dados tratados da FAOSTAT (maiores produtores mundiais)
@@ -27,25 +27,25 @@ mlarrozprevisao/
 ├── Treinamento_Rice_NASA_Clima_South_America_2011_a_2020_3anos.ipynb # Treinamento com integração climática
 ├── LICENSE
 ├── README.md
-├── requirements.txt
-
+└── requirements.txt
+```
 ---
 
-## 📘 Fontes de Dados
+## Fontes de Dados
 
-### 🟢 FAOSTAT – Food and Agriculture Organization (FAO)
+### FAOSTAT – Food and Agriculture Organization (FAO)
 - Dados de produção agrícola, área colhida e rendimento de arroz (Oryza sativa).  
 - Acesso: [https://www.fao.org/faostat/en/](https://www.fao.org/faostat/en/)  
 - Licença: [CC BY-NC-SA 3.0 IGO](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/)
 
-### 🔵 NASA POWER – Prediction of Worldwide Energy Resources
+### NASA POWER – Prediction of Worldwide Energy Resources
 - Dados climáticos (precipitação e temperatura média anual).  
 - Acesso: [https://power.larc.nasa.gov/](https://power.larc.nasa.gov/)  
 - Licença: domínio público.
 
 ---
 
-## ⚙️ Modelos e Metodologia
+## Modelos e Metodologia
 
 - **Modelos aplicados:**  
   - Linear Regression (LR)  
@@ -66,7 +66,7 @@ mlarrozprevisao/
 
 ---
 
-## 🧠 Requisitos e Execução
+## Requisitos e Execução
 
 Os experimentos podem ser reproduzidos diretamente em ambiente **Jupyter Notebook**.
 
@@ -82,7 +82,7 @@ Os experimentos podem ser reproduzidos diretamente em ambiente **Jupyter Noteboo
   - `matplotlib`
   - `requests` (para a API NASA POWER)
 
-### ▶️ Execução
+### Execução
 
 1. Clone ou baixe o repositório:
    ```bash

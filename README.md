@@ -1,6 +1,6 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-# Modelagem Preditiva da Produção de Arroz na América do Sul com Machine Learning
+# Modelagem Preditiva da Produção de Arroz na América do Sul
 
 Este repositório contém os códigos, dados derivados e resultados utilizados no estudo:
 

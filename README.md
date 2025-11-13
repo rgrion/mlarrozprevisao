@@ -1,6 +1,6 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17593361.svg)](https://doi.org/10.5281/zenodo.17593361)
 
 # Modelagem Preditiva da Produção de Arroz na América do Sul
 
@@ -8,7 +8,7 @@ Este repositório contém os códigos, dados derivados e resultados utilizados n
 
 > **GRION, R. F.; KOIFMAN, A. B.; MORAES, L. O.; FERREIRA, M. L.**  
 > *Modelagem preditiva da produção de arroz na América do Sul.*  
-> Zenodo, 2025. DOI: [10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567)
+> Zenodo, 2025. DOI: [10.5281/zenodo.17593361](https://doi.org/10.5281/zenodo.17593361)
 
 ---
 

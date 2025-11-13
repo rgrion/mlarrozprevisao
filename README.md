@@ -1,10 +1,14 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
+
 # Modelagem Preditiva da Produção de Arroz na América do Sul
 
 Este repositório contém os códigos, dados derivados e resultados utilizados no estudo:
 
-> **GRION, R. F.; KOIFMAN, A. B.; MORAES, L. O.; FERREIRA, M. S. L.** *Modelagem preditiva da produção de arroz na América do Sul com Machine Learning.* 
+> **GRION, R. F.; KOIFMAN, A. B.; MORAES, L. O.; FERREIRA, M. L.**  
+> *Modelagem preditiva da produção de arroz na América do Sul.*  
+> Zenodo, 2025. DOI: [10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567)
 
 ---
 
@@ -70,7 +74,7 @@ mlarrozprevisao/
 
 Os experimentos podem ser reproduzidos diretamente em ambiente **Jupyter Notebook**.
 
-### 🔧 Dependências principais
+### Dependências principais
 
 - Python ≥ 3.10  
 - Jupyter Notebook ou JupyterLab  

@@ -1,4 +1,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17593361.svg)](https://doi.org/10.5281/zenodo.17593361)
 

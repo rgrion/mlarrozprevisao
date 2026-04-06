@@ -3,15 +3,16 @@
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17593361.svg)](https://doi.org/10.5281/zenodo.17593361)
+[![DOI](https://img.shields.io/badge/DOI-10.5753/sbsi.2026.248573-blue)](https://doi.org/10.5753/sbsi.2026.248573)
 
 # Modelagem Preditiva da Produção de Arroz na América do Sul
 
 Este repositório contém os códigos, dados derivados e resultados utilizados no estudo:
 
-> **GRION, R. F.; KOIFMAN, A. B.; MORAES, L. O.; FERREIRA, M. L.**  
-> *Modelagem preditiva da produção de arroz na América do Sul.*  
-> Zenodo, 2025. DOI: [10.5281/zenodo.17593361](https://doi.org/10.5281/zenodo.17593361)
+> **GRION, Renan; KOIFMAN, Ana Bari; MORAES, Laura O.; FERREIRA, Mariana Simoes Larraz.** 
+> Predictive Modeling of Rice Production in South America Using Machine Learning.
+> In: SIMPÓSIO BRASILEIRO DE SISTEMAS DE INFORMAÇÃO (SBSI), 22. , 2026, Vitória/ES. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2026 . p. 576-595.
+> DOI: [10.5753/sbsi.2026.248573](https://doi.org/10.5753/sbsi.2026.248573)
 
 ---
 
